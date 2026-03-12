@@ -4,9 +4,9 @@
 
 pydub
 ffmpeg
-torch==2.8.0+cu129
-torchvision==0.23.0+cu129
-torchaudio==2.8.0+cu129
+#torch==2.8.0+cu129
+#torchvision==0.23.0+cu129
+#torchaudio==2.8.0+cu129
 librosa
 audiomentations
 matplotlib
@@ -20,6 +20,6 @@ omegaconf
 einops
 beartype
 rotary_embedding_torch
-https://huggingface.co/madbuda/triton-windows-builds/resolve/main/triton-3.0.0-cp312-cp312-win_amd64.whl
+#https://huggingface.co/madbuda/triton-windows-builds/resolve/main/triton-3.0.0-cp312-cp312-win_amd64.whl
 
 sageattention
